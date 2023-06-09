@@ -29,3 +29,8 @@ The motivation to use this data structures was because its unordered collection,
 
 ## GUI
 ![](https://github.com/JosefMamo12/Ex3/blob/master/Images/gui%20exsplanation.jpeg)
+
+**[@giladjerusalem](https://github.com/giladjerusalem)**
+
+**[@JosefMamo12](https://github.com/JosefMamo12)**
+
